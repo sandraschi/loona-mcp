@@ -1,0 +1,12 @@
+{
+  "name": "loona-mcp",
+  "version": "0.1.0",
+  "description": "FastMCP 3.2+ server for KEYi Loona Petbot — hardware reverse engineering, motor/sensor control, AI companion stack",
+  "author": "Sandra Schipal",
+  "license": "MIT",
+  "mcp": {
+    "transport": "dual",
+    "port": 11069,
+    "path": "/mcp"
+  }
+}
